@@ -1,4 +1,4 @@
 [submodule "compile-extensions"]
 	path = compile-extensions
-	url = https://github.com/ronakbanka/compile-extensions.git
+	url = https://github.com/CAFxX/compile-extensions.git
   branch = master
